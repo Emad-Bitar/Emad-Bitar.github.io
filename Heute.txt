@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 heute nehme ich einen Wlan von blanko
+=======
+heute nehme ich einen wlan von blanko
+
+
+
+
+Heute mache ich nichts
+>>>>>>> Heute
